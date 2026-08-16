@@ -1,3 +1,36 @@
+# Odoo 17 Estate Module
+
+This repository contains my implementation of the Odoo Server Framework 101 tutorial through Chapter 7.
+
+## Estate Module
+
+The module includes:
+
+- Real estate properties
+- Property types and tags
+- Property offers
+- Buyer and salesperson relations
+- Custom list, form and search views
+- Access rights for internal users
+
+➡️ [Open the Estate module](estate)
+
+## Screenshots
+
+### Property List
+
+![Property list](estate/screenshots/property-list.png)
+
+### Property Form
+
+![Property form](estate/screenshots/property-form.png)
+
+---
+
+This project is based on the official [Odoo Tutorials repository](https://github.com/odoo/tutorials).
+
+
+
 # Odoo tutorials
 
 This repository hosts the code for the bases of the modules used in the
